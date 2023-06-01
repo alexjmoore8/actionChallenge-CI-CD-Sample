@@ -1,0 +1,12 @@
+name: CI/CD Workflow
+
+on: push
+
+jobs:
+  build:
+    name: Checkout repo
+    runs-on: ubuntu-latest
+    steps:
+    - name: 
+      
+  
